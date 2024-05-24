@@ -1,5 +1,5 @@
 body{
-    padding: 73px 105px 575px 86px;
+    padding top: 73px;
 }
 .box{
     height: 376px;
@@ -7,6 +7,8 @@ body{
     background-color: #22f4da;
     border: 1PX solid #22f4da;
     border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1{
     padding: 29px 536px 308px 536px ;
