@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     padding top: 73px;
 }
@@ -11,6 +14,6 @@ body{
     margin-right: auto;
 }
 h1{
-    padding: 29px 536px 308px 536px ;
+    margin:auto;
 }
 
